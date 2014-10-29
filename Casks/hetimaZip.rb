@@ -1,4 +1,4 @@
-class HetimaZip < Cask
+class Hetimazip < Cask
   version :latest
   sha256 :no_check
 
@@ -6,5 +6,5 @@ class HetimaZip < Cask
   homepage 'http://hetima.com/hetimazipql/'
   license :unknown
 
-  qlplugin 'HetimaZip.qlgenerator1.0.1/HetimaZip.qlgenerator'
+  qlplugin "HetimaZip.qlgenerator1.0.1/HetimaZip.qlgenerator"
 end
