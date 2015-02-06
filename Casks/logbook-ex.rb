@@ -1,5 +1,5 @@
 cask :v1 => 'logbook-ex' do
-  version '1.4.0'
+  version '1.5.0'
   sha256 :no_check
 
   url "http://nekopandanet.sakura.ne.jp/logbook/release/#{version}/logbook.macosx-x64-ex.zip"
