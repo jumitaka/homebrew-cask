@@ -1,4 +1,4 @@
-cask :v1 => 'logbook-ex' do
+cask 'logbook-ex' do
   version :latest
   sha256 :no_check
 
