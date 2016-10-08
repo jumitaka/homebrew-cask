@@ -6,6 +6,4 @@ cask 'logbook-ex' do
   name 'logbook-ex'
   homepage 'http://nekopanda.blog.jp/'
   license :mit
-
-  artifact 'macosx-x64-ex', :target => '#{appdir}/logbook-ex'
 end
